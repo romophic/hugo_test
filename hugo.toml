@@ -1,0 +1,5 @@
+baseURL = 'https://romophic.github.io/hugo_test'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+theme = "hugo-brewm"
